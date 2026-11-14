@@ -1,0 +1,28 @@
+# Anotações pessoais
+annotations.txt
+
+# Conteúdo pago do curso (aulas em markdown)
+*.md
+!README.md
+
+# PDFs originais do curso
+Aula*.pdf
+
+# Imagens/assets das aulas
+assets/
+
+# Módulos que são só material do curso
+00_Introducao/
+05_SQL_Databases/
+06_Certificacao/
+07_Proximos_Passos/
+
+# Dataset (baixar do Kaggle, ver README)
+Dataset/
+
+# Bancos locais
+*.sqlite
+*.db
+
+# Originais com enunciados do curso (só local)
+_originais/
